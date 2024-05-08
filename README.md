@@ -1,2 +1,1 @@
-# vertical-slider
-HTML, CSS
+
